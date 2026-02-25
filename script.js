@@ -151,11 +151,11 @@ navLinksContainer.querySelectorAll('a').forEach(link => {
 // TYPING EFFECT
 // =============================================
 const roles = [
+  'DevOps Engineer',
   'Cloud Engineer',
   'AWS Architect',
-  'Frontend Developer',
-  'Linux Admin',
-  'DevOps Enthusiast'
+  'CI/CD Specialist',
+  'Linux Admin'
 ];
 let roleIndex = 0;
 let charIndex = 0;
